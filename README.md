@@ -39,5 +39,6 @@ Create React App (CRA)
 
 Uruchomienie
 
-<img width="458" height="349" alt="obraz" src="https://github.com/user-attachments/assets/ad3c2e1f-cbfc-4dd5-86aa-fc18d47239b4" />
-
+<img width="458" height="349" alt="obraz" src="https://github.com/user-attachments/assets/a858a3cf-a0e9-496a-b109-96a702fbdbdb" />
+<img width="628" height="350" alt="obraz" src="https://github.com/user-attachments/assets/08720054-80ab-4487-96a8-7eb18856ea20" />
+<img width="616" height="363" alt="obraz" src="https://github.com/user-attachments/assets/7c70d996-2159-4ac9-8c79-6450e2856dea" />
