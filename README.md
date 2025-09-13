@@ -38,3 +38,6 @@ Bootstrap 5
 Create React App (CRA)
 
 Uruchomienie
+
+<img width="458" height="349" alt="obraz" src="https://github.com/user-attachments/assets/ad3c2e1f-cbfc-4dd5-86aa-fc18d47239b4" />
+
